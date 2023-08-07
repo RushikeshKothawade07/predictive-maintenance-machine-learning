@@ -7,7 +7,7 @@
 
 This application is designed to predict machine failure for predictive maintenance using machine learning. It utilizes a synthetic dataset with 10,000 data points and 14 features. The application is built using a Random Forest model to classify whether the machine will experience failure or not based on the provided inputs.
 
-You can view the deployed app here : https://predictive-maintenance-machine-learning-hzmvsxp7tlbwdhe3c733zk.streamlit.app/
+You can view the deployed app here : https://predictive-maintenance-machine-learning-hzmvsxp7tlbwdhe3c733zk.streamlit.app/ 
 ## Google Colab Notebook
 Click [here](https://colab.research.google.com/drive/1QXPrLjqd07hcsgr3JxycuTREV998h4Yr?usp=sharing) to open the Google Colab notebook for this project.
 
